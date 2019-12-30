@@ -1,5 +1,5 @@
 # School website
-A local school website Which I made for them
+A school website 
 
 ## Images
 ![img1](readmeImages/img1.png)
